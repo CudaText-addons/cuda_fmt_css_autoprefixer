@@ -1,5 +1,5 @@
 [info]
-title=Formatter CSS AutoPrefixer
+title=Formatter for CSS: AutoPrefixer
 desc=Inserts vendor prefixes into CSS code (requires Node.js)
 type=cudatext-plugin
 subdir=cuda_fmt_css_autoprefixer
